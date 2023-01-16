@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3061dcc8ca19114488b2df1bbceebca, type: 3}
+  m_Name: PlatformTileData
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 8f69128353be48b4ebab925a09f1b6a3, type: 2}
+  - {fileID: 11400000, guid: d7a2102ae0c4b4641898a66d816c528e, type: 2}
+  - {fileID: 11400000, guid: 2c005eaa2c5d62b4ba92c81d1f38c312, type: 2}
+  - {fileID: 11400000, guid: af1e4486bb8848f459da89a75c34a5cf, type: 2}
+  - {fileID: 11400000, guid: 3ed70d50c8555324ca15213006d013dd, type: 2}
+  - {fileID: 11400000, guid: de3344498c93b874585bdc41bdeee471, type: 2}
+  - {fileID: 11400000, guid: 6ba720abd297fc14183d5ebf818598d2, type: 2}
+  - {fileID: 11400000, guid: 53946abc05ae37d4fb9b0c7ab2ac90fb, type: 2}
+  - {fileID: 11400000, guid: cb5240abe9630c84cb84a2e04ca1f75a, type: 2}
+  - {fileID: 11400000, guid: c36397dfde2e6b24d84be0878442f1f5, type: 2}
+  - {fileID: 11400000, guid: 13dd6963c549bb3418b64d4d0d96eeb1, type: 2}
+  - {fileID: 11400000, guid: 8cd06491c1783fb429a8d8f3794c2a78, type: 2}
+  - {fileID: 11400000, guid: e936fb81fc65ae7488ea05f7d1c7f124, type: 2}
+  - {fileID: 11400000, guid: f41275386ec7aeb4ebac8559b081193c, type: 2}
+  - {fileID: 11400000, guid: 896528c250b644a4c8efdf91715c349b, type: 2}
+  - {fileID: 11400000, guid: 99bf9c159fb3b1e44926583daeb080e0, type: 2}
+  - {fileID: 11400000, guid: 0b5df88297b5bf1469b17996ba5f596a, type: 2}
+  - {fileID: 11400000, guid: 028b7b824c680304ca2d855ede113459, type: 2}
+  - {fileID: 11400000, guid: c2be6914a090fd54c8f7ff736b0b8e5f, type: 2}
+  - {fileID: 11400000, guid: e6103df78d07e8c4f9343aa247c9e2ad, type: 2}
+  - {fileID: 11400000, guid: a02bf1a763e32c64783f49811012d8a1, type: 2}
+  - {fileID: 11400000, guid: 3edfa9c41b5402742b6d325c8f74fcc8, type: 2}
+  - {fileID: 11400000, guid: 76776624a7230cf4484497d7ed13d656, type: 2}
+  - {fileID: 11400000, guid: 3098d166f511bb84bab395cb4fc3e645, type: 2}
+  - {fileID: 11400000, guid: ac751587a624512428df07fffa47ee38, type: 2}
+  - {fileID: 11400000, guid: 02d89357d80f9274390d0187f3d841e4, type: 2}
+  - {fileID: 11400000, guid: 36437f5c805effb49b0e732611d30fc3, type: 2}
+  - {fileID: 11400000, guid: 3f4f1d59fbe11ac439468dd2c24efe1e, type: 2}
+  moveable: 0
+  tileInformation: This is the platform
